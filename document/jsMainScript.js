@@ -11,7 +11,7 @@ var strImgTips = [
     "I've always been in love with nature. I once joined a scientist's research on sharks in South Carolina; the shark was measured and later released back to the water. ",
     "As one of the founding members of WUVAonline video team, I created a talkshow Talk To My Professor which is carried on even after I graduated. My filmmaking career started from making news videos at UVa.",
     "Steve Irwin inpired me to become a documentary filmmaker, and I was lucky to meet his daughter Bindi Irwin at their family zoo. She's a really nice angel!",
-    "Appreciating the beauty and history of the Blue Mosque. Later I magically made friends with the Director of Blue Mosque Foundation, and joined his family breakfast party (it was during Ramadan).",
+    "Appreciating the beauty and history of the Blue Mosque in Istanbul. Later I magically made friends with the Director of Blue Mosque Foundation, and joined his family breakfast party (it was during Ramadan).",
     "A Chinese family in the 90s! The one on the left corner is me at 3 years old. Who would have thought that this little girl would travel so far and dedicate her life to creating films?"
 ];
 
