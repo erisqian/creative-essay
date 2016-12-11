@@ -28,7 +28,7 @@ function funImgMoved(event) {
         case 0:
             if (event.offsetX > 350) {
                 funChangeCursor(2);
-                document.getElementById('idImgBox').title = "last photo";
+                document.getElementById('idImgBox').title = "next photo";
 
             } else {
                 funChangeCursor(0);
@@ -46,10 +46,10 @@ function funImgMoved(event) {
         default:
             if (event.offsetX > 350) {
                 funChangeCursor(2);
-                document.getElementById('idImgBox').title = "向后翻页提示";
+                document.getElementById('idImgBox').title = "next photo";
             } else {
                 funChangeCursor(1);
-                document.getElementById('idImgBox').title = "向前翻页提示";
+                document.getElementById('idImgBox').title = "previous photo";
             }
     }
 }
